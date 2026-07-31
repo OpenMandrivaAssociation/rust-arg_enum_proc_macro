@@ -5,8 +5,8 @@
 %global crate arg_enum_proc_macro
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        0.3.4
+Release:        1%{?dist}
 Summary:        Procedural macro compatible with clap arg_enum
 
 # Upstream license specification: MIT
